@@ -64,8 +64,8 @@ Reward distribution|Reward distribution|Reward distribution
 ![](Results/MountainCar/skill3.png)| ![](Results/MountainCar/skill7.png)| ![](Results/MountainCar/skill8.png)
 
 ## Dependencies
-- gym == 0.17.3
-- mujoco-py == 2.0.2.13
+- gymnasium
+- mujoco
 - numpy == 1.19.2
 - opencv_contrib_python == 4.4.0.44
 - psutil == 5.5.1
